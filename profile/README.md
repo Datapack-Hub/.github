@@ -3,11 +3,11 @@
 # Datapack Hub
 Welcome to Datapack Hub on Github!
 
-## what is datapack hub?
-Datapack Hub is a community around Minecraft Data Packs, administrated by silabear and flynecraft. We started as a [group on PMC](https://planetminecraft.com/group/daily_datapackers), before making our [discord server](https://discord.gg/aEXsdjjdu4). We're currently working on a website for sharing your datapacks with the world.
+## What is Datapack Hub?
+Datapack Hub is a community around Minecraft Data Packs, administrated by Silabear and Flynecraft. We started as a [group on PMC](https://planetminecraft.com/group/daily_datapackers), before making our [discord server](https://discord.gg/aEXsdjjdu4). We're currently working on a website for sharing your datapacks with the world.
 
-## links
-- **Website** -> https://datapackhub.net
-- Discord -> https://discord.gg/aEXsdjjdu4
-- PMC -> https://planetminecraft.com/group/daily_datapackers
-- Twitter -> https://twitter.com/datapackhub
+## Important Links
+- ![DPH icon](https://datapackhub.net/favicon-16x16.png) [Website](https://datapackhub.net)
+- <img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico"  width="16" height="16"> [Discord](https://discord.gg/aEXsdjjdu4)
+- ![PMC icon](https://www.planetminecraft.com/favicon.ico) [Planet Minecraft](https://planetminecraft.com/group/daily_datapackers)
+- ![Twitter icon](https://twitter.com/favicon.ico) [Twitter](https://twitter.com/datapackhub)
