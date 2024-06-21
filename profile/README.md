@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/935563196595568680/1104723438146441276/4002543_4.png?width=1440&height=235)
+![banner](https://raw.githubusercontent.com/Datapack-Hub/frontend/main/static/bg_banner.png)
 
 # Datapack Hub
 Welcome to Datapack Hub's GitHub!
